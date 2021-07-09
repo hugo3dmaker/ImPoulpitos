@@ -2,7 +2,7 @@
 
 Je me présente, je m'apppelle Jules. Passionné d'informatique et de Jeux Vidéos, j'ai décidé il y a 1 an de me lancer dans mes propres projets en devenant développeur. Aujourd'hui, je suis Administrateur du Palamazon, une plateforme de vente pour Paladium. Je code essentiellement en JavaScript où j'ai de très bonnes connaissances. 
 
-❓ **Tu souhaites plus d'informations? Pose une question [ici](https://github.com/OverSquid/OverSquid/issues)**
+❓ **Tu souhaites plus d'informations? Pose une question [ici](https://github.com/ImPoulpitos/ImPoulpitos/issues)**
 
 ## Comment me contacter
 
@@ -14,6 +14,6 @@ D'autres seront ajoutés dans le futur mais ceux là, ils sont sûrs!
 
 ## Mes Statistiques
 
-[![Mes Statistiques](https://github-readme-stats.vercel.app/api?username=OverSquid&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mes Statistiques](https://github-readme-stats.vercel.app/api?username=ImPoulpitos&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
