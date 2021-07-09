@@ -1,6 +1,6 @@
 ### Salutations cher inconnu 👋
 
-Je me présente, je m'apppelle Jules. Passionné d'informatique et de Jeux Vidéos, j'ai décidé il y a 1 an de me lancer dans mes propres projets en devenant développeur. Aujourd'hui, je suis Administrateur du Palamazon, une plateforme de vente pour Paladium. Je code essentiellement en JavaScript où j'ai de très bonnes connaissances. 
+Je me présente, je m'appelle Jules. Passionné d'informatique et de Jeux Vidéos, j'ai décidé il y a 1 an de me lancer dans mes propres projets en devenant développeur. Aujourd'hui, je suis Administrateur du Palamazon, une plateforme de vente pour Paladium. Je code essentiellement en JavaScript où j'ai de très bonnes connaissances. 
 
 ❓ **Tu souhaites plus d'informations? Pose une question [ici](https://github.com/ImPoulpitos/ImPoulpitos/issues)**
 
